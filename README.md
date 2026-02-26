@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**carltonkimutai/carltonkimutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Carlton, a Data Scientist. I make sense of messy data to build intelligent, real-world solutions. My goal is to bridge the gap between complex analytical models and practical everyday decisions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### These days I’m focused on:
+* Python, SQL, R, AWS, and Power Bi
+* Currently learning interactive web visualizations (React, custom data apps)
+* Turning messy data into clean, practical solutions
+
+### Some stuff I built:
+* **Financial Desert Mapper** - A spatial pipeline using K-Means clustering to pinpoint optimal locations for new financial hubs with an interactive geographic dashboard +2
+* **Urban Transit Optimizer** - A data-driven routing model built with OpenStreetMap and Dijkstra's algorithm to connect distinct economic zones and reduce travel times efficiently, well visualised in an interactive dashboard. +2
+* **Crop Resilience Engine (ongoing)** - A multi-objective linear programming model that mathematically reallocates farming locations to maximize yield against climate shifts.
